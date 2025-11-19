@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlazorGit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5022f409fb0e0035e784ebeebdbe095944b56d4d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+061d5a01052bd87e58203069251994e946ba7628")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlazorGit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlazorGit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
