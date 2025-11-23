@@ -14,6 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c3b4179fe951dc5997a30cea1241ff62a15da6a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8574eff29973a2abc911758ecd25dc5712243c2c")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlazorGit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlazorGit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
